@@ -1,4 +1,4 @@
-# docker-sample2
+# docker-laravel-sample
 ---
 **RUN TO SETUP-**
 make setup
